@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
+button{
+  font-size: 32px;
+  background-color: rgb(198, 176, 176);
+}
